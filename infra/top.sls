@@ -1,0 +1,3 @@
+infra:
+  '*infvl*':
+         - ssh
